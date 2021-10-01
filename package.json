@@ -1,5 +1,5 @@
 {
-  "name": "@datasert/cronjs",
+  "name": "@imatis/cronjs",
   "private": true,
   "workspaces": [
     "packages/*"
