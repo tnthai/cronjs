@@ -65,5 +65,8 @@
       "**/*.spec.ts"
     ],
     "testTimeout": 120000
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

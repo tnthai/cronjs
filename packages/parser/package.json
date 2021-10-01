@@ -49,5 +49,8 @@
     },
     "testRegex": "(/test/unit/.*|(\\.|/)(test|spec))\\.tsx?$",
     "testTimeout": 120000
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
