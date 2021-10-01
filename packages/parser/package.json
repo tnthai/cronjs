@@ -22,7 +22,7 @@
   ],
   "scripts": {
     "lint": "eslint --ext .js,.ts src",
-    "clean": "rm -rf dist && rm -rf coverage && rm -rf yarn-error.log",
+    "clean": "rimraf dist && rimraf coverage && rimraf yarn-error.log",
     "compile": "tsc",
     "cleancompile": "yarn clean && yarn compile",
     "compile:watch": "tsc --watch",
