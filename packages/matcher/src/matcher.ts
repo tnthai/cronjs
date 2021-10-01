@@ -21,7 +21,7 @@
 // SOFTWARE.
 
 import {DateTime} from 'luxon';
-import {CronExpr, CronExprs, CronField, PlainObject, parse} from '@datasert/cronjs-parser';
+import {CronExpr, CronExprs, CronField, PlainObject, parse} from '@imatis/cronjs-parser';
 
 export interface Func<I, O> {
   (input: I): O;

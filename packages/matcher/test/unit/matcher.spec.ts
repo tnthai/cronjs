@@ -1,4 +1,4 @@
-import {parse} from '@datasert/cronjs-parser';
+import {parse} from '@imatis/cronjs-parser';
 import * as subject from '../../src/matcher';
 import {MatchOptions} from '../../src/matcher';
 
