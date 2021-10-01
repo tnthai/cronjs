@@ -33,10 +33,10 @@
   },
   "dependencies": {
     "@imatis/cronjs-parser": "^1.0.0",
-    "luxon": "^2.0.2"
+    "luxon": "^1.24.1"
   },
   "devDependencies": {
-    "@types/luxon": "^2.0.4"
+    "@types/luxon": "^1.27.1"
   },
   "jest": {
     "collectCoverage": true,
